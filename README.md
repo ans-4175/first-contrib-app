@@ -1,5 +1,8 @@
 # First Contrib Search
 
+![Cover Photo](https://github.com/GaelS/first-contrib-app/blob/master/github-first.png)
+
+
 ## Why this project ? 
 
 As a coder wanted to make his/her first contribution to an open source project, it can sometimes be tough to find the right project that matches both your expectations and skills. 
