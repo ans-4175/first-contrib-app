@@ -1,7 +1,10 @@
 # First Contrib Search
 
-![Cover Photo](https://github.com/GaelS/first-contrib-app/blob/master/github-first.png)
+tldr; Just play with [HERE](https://first-contrib.surge.sh)
 
+
+
+![Cover Photo](https://github.com/GaelS/first-contrib-app/blob/master/github-first.png)
 
 ## Why this project ? 
 
